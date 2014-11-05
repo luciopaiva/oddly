@@ -1,0 +1,32 @@
+{
+  "name": "oddly",
+  "version": "0.1.0",
+  "description": "A pseudo random number generator with focus on a good user interface.",
+  "main": "oddly.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luciopaiva/oddly.git"
+  },
+  "keywords": [
+    "random",
+    "rand",
+    "pseudo",
+    "number"
+  ],
+  "author": "Lucio Paiva <lucio@luciopaiva.com> (http://github.com/luciopaiva)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luciopaiva/oddly/issues"
+  },
+  "homepage": "https://github.com/luciopaiva/oddly"
+}
