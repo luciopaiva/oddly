@@ -1,5 +1,8 @@
 
+var
+    mt = require('./src/mersenne-twister');
+
 module.exports = function () {
 
-    return Math.random();
+    return (new mt(123)).random();
 };
